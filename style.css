@@ -1,0 +1,26 @@
+body{
+color: lavender;
+background: []white;
+ margin: 0px;
+ font-family:"Open Sans";
+}
+
+header{
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: goldenrod;
+}
+
+section{
+
+    background: firebrick;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
